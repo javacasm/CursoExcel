@@ -15,14 +15,14 @@ En este curso pretendemos aprender a:
 ## Contenidos
 
 * [Programas para trabajar con hojas de cálculo](1.0.Programas.md)
-* Cómo empezar a trabajar con Excel y realizar las operaciones básicas
-* Manejo de los formatos de Excel y presentación de los resultados
-* Uso de cálculos y funciones
-* Cómo utilizar los gráficos de Excel
-* Qué familias de funciones están disponibles en Excel
+* [Cómo empezar a trabajar con Excel y realizar las operaciones básicas](./2.0.OperacionesBasicas.md)
+* [Manejo de los formatos de las celdas y presentación de los resultados](3.0.Formatos.md)
+* [Uso de cálculos y funciones](./4.0.Formulas.md)
+* [Cómo utilizar los gráficos de Excel](./5.0.Graficos.md)
+* [Qué familias de funciones están disponibles](./6.0.Funciones.md)
 * Formateo condicional
 * Cómo manejar las tablas de datos
-
+* Control de versiones
 
 ## Recursos
 
@@ -37,3 +37,4 @@ Se proporcionarán referencia a recursos de consulta.
 * [Fórmulas en Excel](https://www.cursosexcelgratis.online/wp-content/uploads/2020/03/Formulas-EXCEL.pdf)
 
 * [Cuaderno de Ejercicios y prácticas de Excel](https://www.cursosexcelgratis.online/wp-content/uploads/2020/03/ejercicios-y-practicas-excel-avanzando.pdf)
+
