@@ -1,4 +1,4 @@
-# Curso de uso de Hojas de Cálculo
+# Curso de uso de Hojas de Cálculo ([211811GE170](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/211811GE170/))
 
 Las herramientas para el tratamiento de hojas de cálculo son uno de los programas que más usamos en nuestro día a día. Utilizándolas bien podemos automatizar procesos y cálculos que nos llevarán a trabajar más cómodamente y con menos errores.
 
@@ -14,7 +14,7 @@ En este curso pretendemos aprender a:
 
 ## Contenidos
 
-* Programas para trabajar con hojas de cálculo
+* [Programas para trabajar con hojas de cálculo](1.0.Programas.md)
 * Cómo empezar a trabajar con Excel y realizar las operaciones básicas
 * Manejo de los formatos de Excel y presentación de los resultados
 * Uso de cálculos y funciones
