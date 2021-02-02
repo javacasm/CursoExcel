@@ -1,0 +1,84 @@
+## Procesado avanzado de texto
+
+Datos -> Texto en columnas
+
+Julia,Sanz,Contoso Ltd.
+Jorge,Alcalá,Fabrikam Inc.
+Sergio,Tijerina,Relecloud
+María,Zelaya,Contoso Ltd.
+Steven,Thorpe,Relecloud
+Michael,Neipper,Fabrikam Inc.
+Robert,Zare,Relecloud
+Irene,Martín,Contoso Ltd.
+
+=IZQUIERDA(C32;ENCONTRAR(",";C32)-1)
+
+=DERECHA(C32;LARGO(C32)-ENCONTRAR(",";C32;ENCONTRAR(",";C32)+1))
+
+
+## Fórmulas de matriz
+
+Bloque original 2 x 6
+
+Artículo	Pan	Donuts	Galletas	Pasteles	Tartas
+Importe	50	100	40	50	20
+
+Definimos un bloque de 6x2
+
+	Mates	Lengua	Dibujo
+Pepe	10	6	1
+Juan	8	5	3
+
+## Tablas dinámicas
+
+Fecha	Vendedor	Producto	Importe
+07/12/2020	Ana	Cerveza	 1.400 € 
+12/12/2020	Marco	Vino	 1.010 € 
+29/12/2020	Ana	Cerveza	 750 € 
+02/01/2021	Marco	Refresco	 510 € 
+22/01/2021	María	Refresco	 1.600 € 
+02/02/2021	Laura	Vino	 680 € 
+
+
+Departamento	Categoría	Oct	Nov	Dic
+Carnicería	Ternera	90.000 €	110.000 €	120.000 €
+Panadería	Postres	25.000 €	80.000 €	120.000 €
+Producir	Fruta	10.000 €	30.000 €	40.000 €
+Producir	Vegetariano	30.000 €	80.000 €	30.000 €
+Charcutería	Ensaladas	90.000 €	35.000 €	25.000 €
+Carnicería	Pollo	75.000 €	82.000 €	2.000.000 €
+Panadería	Panes	30.000 €	15.000 €	20.000 €
+Charcutería	Sándwiches	80.000 €	40.000 €	20.000 €
+
+
+
+
+
+## Cálculos condicionales
+
+
+Elemento	Cantidad	Coste	Total
+Widget	2	9,76 €	19,52 €
+Doohickey	3	3,42 €	10,26 €
+			
+	Subtotal	13,18 €	29,78 €
+			
+	¿Impuesto sobre las ventas?	Sí(es seleccionable)	2,46 €  =SI(E33="Sí";F31*Impuesto_sobre_las_ventas;0)
+			
+	¿Envío?	Sí	6,25 €
+			
+	Total		38,48 €
+			
+
+## Busqueda de valores en tablas
+
+Fruta	Importe
+Manzanas	50
+Naranjas	20
+Plátanos	60
+Limones	40
+
+Precio manzanas =BUSCARV(C22;C17:D20;2;FALSO)
+=BUSCARV(valor_a_buscar_rango;Columna a devolver;APROXIMADA)
+
+Si no lo encuentra devuvel #N/D
