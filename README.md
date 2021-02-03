@@ -28,8 +28,8 @@ En este curso pretendemos aprender a:
 * Generación de formularios orientados al alumnado
 
 ## [Contenidos avanzados solicitados](./9.9.Avanzado.md)
-* [Tablas dinámicas](./9.9.Avanzado.md#Tablas%20dinámicas) y referencias cruzadas.
-* [Validación de datos](./9.9.Avanzado.md#Validación%20de%20datos).
+* [Tablas dinámicas](./9.9.Avanzado.md#tablas-din%C3%A1micas) y referencias cruzadas.
+* [Validación de datos](./9.9.Avanzado.md#validaci%C3%B3n-de-datos).
 * Realizar consultas.
 * Generación de formularios.
 * Bases de datos, impresión archivos nativos y otros.
