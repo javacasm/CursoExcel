@@ -47,4 +47,11 @@ En este curso pretendemos aprender a:
 Se proporcionarán referencia a recursos de consulta.
 
 
+## Fechas
 
+Fecha |	Horario
+--- |---
+02/02/2021 |	17:30 -	19:30
+23/02/2021 |	17:30 -	19:30
+09/03/2021 |	17:30 -	19:30
+23/03/2021 |	17:30 -	19:30
