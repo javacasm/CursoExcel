@@ -30,7 +30,7 @@ En este curso pretendemos aprender a:
 ## [Contenidos avanzados solicitados](./9.9.Avanzado.md)
 * [Tablas dinámicas](./9.9.Avanzado.md#tablas-din%C3%A1micas) y referencias cruzadas.
 * [Validación de datos](./9.9.Avanzado.md#validaci%C3%B3n-de-datos).
-* Realizar consultas.
+* [Realizar consultas](https://github.com/javacasm/CursoExcel/blob/master/9.9.Avanzado.md#busqueda-de-valores-en-tablas)
 * Generación de formularios.
 * Bases de datos, impresión archivos nativos y otros.
 * Utilización de escenarios (creación, muestra y gráficos).
@@ -51,7 +51,7 @@ Se proporcionarán referencia a recursos de consulta.
 
 Fecha |	Horario
 --- |---
-02/02/2021 |	17:30 -	19:30
-23/02/2021 |	17:30 -	19:30
+~~02/02/2021~~ |~~17:30 -	19:30~~
+~~23/02/2021~~ |~~17:30 -	19:30~~
 09/03/2021 |	17:30 -	19:30
-23/03/2021 |	17:30 -	19:30
+15/03/2021 |	17:30 -	19:30
