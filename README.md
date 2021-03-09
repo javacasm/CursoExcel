@@ -20,11 +20,11 @@ En este curso pretendemos aprender a:
 * [Uso de cálculos y funciones](./4.0.Funciones.md)
 * [Cómo utilizar los gráficos de Excel](./5.0.Graficos.md)
 * [Qué familias de funciones están disponibles](./6.0.Funciones.md)
-* Formateo condicional
-* Cómo manejar las tablas de datos
-* Búsqueda y ordenación
-* Ocultación de campos
-* Protección de hojas y libros
+* [Formateo condicional](3.0.Formatos.md#formato-condicional)
+* [Cómo manejar las tablas de datos](https://support.microsoft.com/es-es/office/calcular-varios-resultados-mediante-una-tabla-de-datos-e95e2487-6ca6-4413-ad12-77542a5ea50b)
+* [Búsqueda](./9.9.Avanzado.md#busqueda-de-valores-en-tablas) y [ordenación](./2.0.OperacionesBasicas.md#ordenar-y-filtrar)
+* [Ocultación de filas y columnas](./2.0.OperacionesBasicas.md#ocultar-columnas-y--filas), campos
+* Protección de hojas y libros - No está disponible en la versión 365
 * Generación de formularios orientados al alumnado
 
 ## [Contenidos avanzados solicitados](./9.9.Avanzado.md)
