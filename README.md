@@ -25,12 +25,12 @@ En este curso pretendemos aprender a:
 * [Búsqueda](./9.9.Avanzado.md#busqueda-de-valores-en-tablas) y [ordenación](./2.0.OperacionesBasicas.md#ordenar-y-filtrar)
 * [Ocultación de filas y columnas](./2.0.OperacionesBasicas.md#ocultar-columnas-y--filas), campos
 * Protección de hojas y libros - No está disponible en la versión 365
-* Generación de formularios orientados al alumnado
+* [Generación de formularios orientados al alumnado](./6.0.Formularios.md)
 
 ## [Contenidos avanzados solicitados](./9.9.Avanzado.md)
 * [Tablas dinámicas](./9.9.Avanzado.md#tablas-din%C3%A1micas) y referencias cruzadas.
 * [Validación de datos](./9.9.Avanzado.md#validaci%C3%B3n-de-datos).
-* [Realizar consultas](https://github.com/javacasm/CursoExcel/blob/master/9.9.Avanzado.md#busqueda-de-valores-en-tablas)
+* [Realizar consultas](./9.9.Avanzado.md#busqueda-de-valores-en-tablas)
 * Generación de formularios.
 * Bases de datos, impresión archivos nativos y otros.
 * Utilización de escenarios (creación, muestra y gráficos).
